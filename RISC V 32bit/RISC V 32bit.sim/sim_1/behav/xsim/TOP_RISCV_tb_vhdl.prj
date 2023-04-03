@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../RISC V 32bit.srcs/sources_1/new/ALU.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/ALU_DECODER.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/BRAM.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/CTRL_DECODER.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/HAZARD_UNIT.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/FORWARDING_UNIT.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/CONTROL_PATH.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/IMMEDIATE.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/REGISTER_BANK.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/DATA_PATH.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/TOP_RISC.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/new/TOP_RISCV.vhd" \
+"../../../../RISC V 32bit.srcs/sources_1/imports/Desktop/txt_util.vhd" \
+"../../../../RISC V 32bit.srcs/sim_1/imports/Desktop/TOP_RISCV_tb.vhd" \
+
+# Do not sort compile order
+nosort

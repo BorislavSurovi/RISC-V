@@ -1,0 +1,18 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sim_1/imports/Desktop/TOP_RISCV_tb.vhd,1680215852,vhdl,,,,top_riscv_tb,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/imports/Desktop/txt_util.vhd,1680206927,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sim_1/imports/Desktop/TOP_RISCV_tb.vhd,,,txt_util,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/ALU.vhd,1680203353,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/DATA_PATH.vhd,,,alu,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/ALU_DECODER.vhd,1679584225,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/CONTROL_PATH.vhd,,,alu_decoder,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/BRAM.vhd,1680544176,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sim_1/imports/Desktop/TOP_RISCV_tb.vhd,,,bram,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/CONTROL_PATH.vhd,1680537533,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/TOP_RISC.vhd,,,control_path,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/CTRL_DECODER.vhd,1680537117,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/CONTROL_PATH.vhd,,,ctrl_decoder,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/DATA_PATH.vhd,1680537575,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/TOP_RISC.vhd,,,data_path,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/FORWARDING_UNIT.vhd,1680290025,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/CONTROL_PATH.vhd,,,forwarding_unit,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/HAZARD_UNIT.vhd,1680199708,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/CONTROL_PATH.vhd,,,hazard_unit,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/IMMEDIATE.vhd,1680267437,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/DATA_PATH.vhd,,,immediate,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/REGISTER_BANK.vhd,1680532716,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/DATA_PATH.vhd,,,register_bank,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/TOP_RISC.vhd,1680537643,vhdl,D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sim_1/imports/Desktop/TOP_RISCV_tb.vhd,,,top_riscv,,,,,,,,
+D:/Vhdl projekti/RISC V 32bit/RISC V 32bit.srcs/sources_1/new/TOP_RISCV.vhd,1679499677,vhdl,,,,,,,,,,,,
